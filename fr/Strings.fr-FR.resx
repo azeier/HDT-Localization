@@ -126,15 +126,11 @@
   <data name="MainWindow_Menu_Class_Hunter" xml:space="preserve">
     <value>_Chasseur</value>
   </data>
-  <data name="MainWindow_Menu_Class_Mage" xml:space="preserve">
-    <value>_Mage</value>
-  </data>
+  
   <data name="MainWindow_Menu_Class_Priest" xml:space="preserve">
     <value>_Prêtre</value>
   </data>
-  <data name="MainWindow_Menu_Class_Paladin" xml:space="preserve">
-    <value>P_aladin</value>
-  </data>
+  
   <data name="MainWindow_Menu_Class_Rogue" xml:space="preserve">
     <value>_Voleur</value>
   </data>
@@ -198,9 +194,7 @@
   <data name="MainWindow_Menu_Deck_Clone_Version" xml:space="preserve">
     <value>Version sélectionnée</value>
   </data>
-  <data name="MainWindow_Menu_Deck" xml:space="preserve">
-    <value>Deck</value>
-  </data>
+  
   <data name="MainWindow_Menu_Import" xml:space="preserve">
     <value>_Importer</value>
   </data>
@@ -318,24 +312,18 @@
   <data name="MainWindow_Menu_HearthStats_Logout" xml:space="preserve">
     <value>Déconnexion</value>
   </data>
-  <data name="MainWindow_Menu_Plugins" xml:space="preserve">
-    <value>_Plugins</value>
-  </data>
+  
   <data name="MainWindow_Menu_Plugins_Empty" xml:space="preserve">
     <value>Vide…</value>
   </data>
-  <data name="MainWindow_TitleBar_Options" xml:space="preserve">
-    <value>Options</value>
-  </data>
+  
   <data name="MainWindow_TitleBar_Help" xml:space="preserve">
     <value>Aide</value>
   </data>
   <data name="MainWindow_TitleBar_Donate" xml:space="preserve">
     <value>Faire un don</value>
   </data>
-  <data name="MainWindow_Flyout_Options_Header" xml:space="preserve">
-    <value>Options</value>
-  </data>
+  
   <data name="MainWindow_Flyout_Help_Header" xml:space="preserve">
     <value>Aide</value>
   </data>
@@ -345,9 +333,7 @@
   <data name="MainWindow_Flyout_SortFilter_Header" xml:space="preserve">
     <value>Trier / filtrer</value>
   </data>
-  <data name="MainWindow_Flyout_Notes_Header" xml:space="preserve">
-    <value>Notes</value>
-  </data>
+  
   <data name="MainWindow_Flyout_SetTags_Header" xml:space="preserve">
     <value>Définir les étiquettes</value>
   </data>
@@ -399,9 +385,7 @@
   <data name="MainWindow_DeckBuilder_Filter_Cost" xml:space="preserve">
     <value>Coût</value>
   </data>
-  <data name="MainWindow_DeckBuilder_Filter_Type" xml:space="preserve">
-    <value>Type</value>
-  </data>
+  
   <data name="MainWindow_DeckBuilder_Filter_Set" xml:space="preserve">
     <value>Ensemble</value>
   </data>
@@ -426,9 +410,7 @@
   <data name="MainWindow_DeckBuilder_Filter_Set_Classic" xml:space="preserve">
     <value>Classique</value>
   </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set_Promo" xml:space="preserve">
-    <value>Promotion</value>
-  </data>
+  
   <data name="MainWindow_DeckBuilder_Filter_Set_Naxx" xml:space="preserve">
     <value>La malédiction de Naxxramas</value>
   </data>
@@ -477,9 +459,7 @@
   <data name="Options_CheckBoxAdvanced" xml:space="preserve">
     <value>Options avancées</value>
   </data>
-  <data name="Options_Overlay_Header" xml:space="preserve">
-    <value>Overlay</value>
-  </data>
+  
   <data name="Options_Overlay_General_Header" xml:space="preserve">
     <value>Général</value>
   </data>
@@ -495,12 +475,8 @@
   <data name="Options_Overlay_Interactivity_Header" xml:space="preserve">
     <value>Interactivité</value>
   </data>
-  <data name="Options_Overlay_Streaming_Header" xml:space="preserve">
-    <value>Streaming</value>
-  </data>
-  <data name="Options_Tracker_Header" xml:space="preserve">
-    <value>Tracker</value>
-  </data>
+  
+  
   <data name="Options_Tracker_General_Header" xml:space="preserve">
     <value>Général</value>
   </data>
@@ -516,12 +492,8 @@
   <data name="Options_Tracker_Importing_Header" xml:space="preserve">
     <value>Importation</value>
   </data>
-  <data name="Options_Tracker_Notifications_Header" xml:space="preserve">
-    <value>Notifications</value>
-  </data>
-  <data name="Options_Tracker_Plugins_Header" xml:space="preserve">
-    <value>Plugins</value>
-  </data>
+  
+  
   <data name="Options_Tracker_Hotkeys_Header" xml:space="preserve">
     <value>Raccourcis clavier</value>
   </data>
@@ -534,9 +506,7 @@
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
     <value>Paramètres</value>
   </data>
-  <data name="Options_Tracker_Logging_Header" xml:space="preserve">
-    <value>Logging</value>
-  </data>
+  
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
     <value>Nom de la case à cocher / description…</value>
   </data>
@@ -885,15 +855,11 @@
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>Format :</value>
   </data>
-  <data name="Options_Tracker_Hotkeys_Table_Mod" xml:space="preserve">
-    <value>Mod</value>
-  </data>
+  
   <data name="Options_Tracker_Hotkeys_Table_Key" xml:space="preserve">
     <value>Touche</value>
   </data>
-  <data name="Options_Tracker_Hotkeys_Table_Action" xml:space="preserve">
-    <value>Action</value>
-  </data>
+  
   <data name="Options_Tracker_Hotkeys_Button_Delete" xml:space="preserve">
     <value>Effacer la sélection</value>
   </data>
@@ -945,21 +911,15 @@
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
     <value>Éditer</value>
   </data>
-  <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
-    <value>Web</value>
-  </data>
+  
   <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
     <value>Étiquetter les decks lors de l'importation</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
     <value>Enregistrer automatiquement le deck lors de l'importation</value>
   </data>
-  <data name="Options_Tracker_Importing_Web_CheckBox_AutoSaveNetDeck" xml:space="preserve">
-    <value>Auto import via NetDeck</value>
-  </data>
-  <data name="Options_Tracker_Importing_Web_Hyperlink_NetDeck" xml:space="preserve">
-    <value>Download NetDeck (Chrome ext.)</value>
-  </data>
+  
+  
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
     <value>Résultat de la partie</value>
   </data>
@@ -1077,9 +1037,7 @@
   <data name="Options_Tracker_Settings_CheckBox_Newsbar" xml:space="preserve">
     <value>Afficher la barre de nouvelles</value>
   </data>
-  <data name="Options_Tracker_Settings_CheckBox_Log" xml:space="preserve">
-    <value>Show Log</value>
-  </data>
+  
   <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
     <value>définir le chemin de Hearthstone</value>
   </data>
@@ -1224,9 +1182,7 @@
   <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
     <value>Lier à une nouvelle UR_L</value>
   </data>
-  <data name="Stats_Arena_Advanced_Label_Note" xml:space="preserve">
-    <value>Note</value>
-  </data>
+  
   <data name="Stats_Arena_Advanced_Warning" xml:space="preserve">
     <value>Le rendu de ces graphiques peut être un peu lent. Appuyez sur Actualiser pour les mettre à jour.</value>
   </data>
@@ -1407,9 +1363,7 @@
   <data name="Stats_Arena_Runs_Table_Game_Replay" xml:space="preserve">
     <value>Rediffusion</value>
   </data>
-  <data name="Stats_Arena_Runs_Table_Game_Note" xml:space="preserve">
-    <value>Note</value>
-  </data>
+  
   <data name="Stats_Arena_Summary_Label_Charts" xml:space="preserve">
     <value>Graphiques</value>
   </data>
@@ -1428,15 +1382,11 @@
   <data name="Stats_Arena_Summary_Label_Highlights" xml:space="preserve">
     <value>Faits saillants</value>
   </data>
-  <data name="Stats_Arena_Summary_Label_Classes" xml:space="preserve">
-    <value>Classes</value>
-  </data>
+  
   <data name="Stats_Arena_Summary_Label_Rewards" xml:space="preserve">
     <value>Récompenses</value>
   </data>
-  <data name="Stats_Arena_Summary_Highlights_Total" xml:space="preserve">
-    <value>Total</value>
-  </data>
+  
   <data name="Stats_Arena_Summary_Highlights_Best" xml:space="preserve">
     <value>Meilleur</value>
   </data>
@@ -1455,12 +1405,8 @@
   <data name="Stats_Arena_Summary_Classes_Hunter" xml:space="preserve">
     <value>Chasseur</value>
   </data>
-  <data name="Stats_Arena_Summary_Classes_Mage" xml:space="preserve">
-    <value>Mage</value>
-  </data>
-  <data name="Stats_Arena_Summary_Classes_Paladin" xml:space="preserve">
-    <value>Paladin</value>
-  </data>
+  
+  
   <data name="Stats_Arena_Summary_Classes_Priest" xml:space="preserve">
     <value>Prêtre</value>
   </data>
@@ -1491,9 +1437,7 @@
   <data name="Stats_Constructed_Charts_Label_WinrateAgainst" xml:space="preserve">
     <value>Taux de victoires contre</value>
   </data>
-  <data name="Stats_Constructed_DeckDetailsTable_Version" xml:space="preserve">
-    <value>Ver.</value>
-  </data>
+  
   <data name="Stats_Constructed_DeckHightlights_Label_Deck" xml:space="preserve">
     <value>Deck :</value>
   </data>
@@ -1530,9 +1474,7 @@
   <data name="Stats_Constructed_Games_Button_Delete" xml:space="preserve">
     <value>Effacer la sélection</value>
   </data>
-  <data name="Stats_Constructed_Games_Table_Deck" xml:space="preserve">
-    <value>Deck</value>
-  </data>
+  
   <data name="Stats_Constructed_Games_Table_Class" xml:space="preserve">
     <value>Classe</value>
   </data>
@@ -1545,12 +1487,8 @@
   <data name="Stats_Constructed_Games_Table_Result" xml:space="preserve">
     <value>Résultat</value>
   </data>
-  <data name="Stats_Constructed_Games_Table_Mode" xml:space="preserve">
-    <value>Mode</value>
-  </data>
-  <data name="Stats_Constructed_Games_Table_Format" xml:space="preserve">
-    <value>Format</value>
-  </data>
+  
+  
   <data name="Stats_Constructed_Games_Table_Rank" xml:space="preserve">
     <value>Rang</value>
   </data>
@@ -1572,9 +1510,7 @@
   <data name="Stats_Constructed_Games_Table_Replay" xml:space="preserve">
     <value>Rediffusion</value>
   </data>
-  <data name="Stats_Constructed_Games_Table_Note" xml:space="preserve">
-    <value>Note</value>
-  </data>
+  
   <data name="Stats_Constructed_Games_Table_Button_Replay" xml:space="preserve">
     <value>Rejouer</value>
   </data>
@@ -1587,9 +1523,7 @@
   <data name="Stats_Constructed_Games_Table_Button_Edit" xml:space="preserve">
     <value>Éditer</value>
   </data>
-  <data name="Stats_Constructed_Games_Table_Button_Note" xml:space="preserve">
-    <value>Note</value>
-  </data>
+  
   <data name="Stats_Constructed_Games_Table_Button_Move" xml:space="preserve">
     <value>Déplacer</value>
   </data>
@@ -1599,9 +1533,7 @@
   <data name="Stats_Constructed_MatchupTable_Label" xml:space="preserve">
     <value>Vous \ contre</value>
   </data>
-  <data name="Stats_Constructed_MatchupTable_Total" xml:space="preserve">
-    <value>Total</value>
-  </data>
+  
   <data name="Stats_Constructed_Summary_Label_Charts" xml:space="preserve">
     <value>Graphiques</value>
   </data>
@@ -1626,9 +1558,7 @@
   <data name="Stats_Constructed_Summary_Label_Highlights" xml:space="preserve">
     <value>Faits saillants</value>
   </data>
-  <data name="Stats_Constructed_Summary_Label_Total" xml:space="preserve">
-    <value>Total</value>
-  </data>
+  
   <data name="Stats_Constructed_Summary_Label_HighestRank" xml:space="preserve">
     <value>Rang le plus élevé :</value>
   </data>
@@ -1773,9 +1703,7 @@
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
     <value>Appliquer les filtres d'étiquettes définis dans le sélecteur de decks &gt; Trier / filtrer les decks (bouton avec 2 flèches).</value>
   </data>
-  <data name="Stats_Overview_Label_Menu" xml:space="preserve">
-    <value>Menu</value>
-  </data>
+  
   <data name="Stats_Overview_Tree_Label_Arena" xml:space="preserve">
     <value>Séries d'arène</value>
   </data>
@@ -1818,9 +1746,7 @@
   <data name="Importing_Constructed_Button_AutoImporting" xml:space="preserve">
     <value>Activer l'importation automatique</value>
   </data>
-  <data name="Importing_Constructed_Label_Deck" xml:space="preserve">
-    <value>Deck</value>
-  </data>
+  
   <data name="Importing_Constructed_Label_SaveTo" xml:space="preserve">
     <value>Enregistrer dans</value>
   </data>
@@ -1884,9 +1810,7 @@
   <data name="ManaCurve_Button_Hide" xml:space="preserve">
     <value>Cacher</value>
   </data>
-  <data name="Enum_StatType_Mana" xml:space="preserve">
-    <value>Mana</value>
-  </data>
+  
   <data name="Enum_StatType_Health" xml:space="preserve">
     <value>Vie</value>
   </data>
@@ -1962,9 +1886,7 @@
   <data name="Enum_Format_All" xml:space="preserve">
     <value>Tous</value>
   </data>
-  <data name="Enum_Format_Standard" xml:space="preserve">
-    <value>Standard</value>
-  </data>
+  
   <data name="Enum_Format_Wild" xml:space="preserve">
     <value>Libre</value>
   </data>
@@ -2019,12 +1941,8 @@
   <data name="Enum_HeroClass_Hunter" xml:space="preserve">
     <value>Chasseur</value>
   </data>
-  <data name="Enum_HeroClass_Mage" xml:space="preserve">
-    <value>Mage</value>
-  </data>
-  <data name="Enum_HeroClass_Paladin" xml:space="preserve">
-    <value>Paladin</value>
-  </data>
+  
+  
   <data name="Enum_HeroClass_Priest" xml:space="preserve">
     <value>Prêtre</value>
   </data>
@@ -2049,9 +1967,7 @@
   <data name="Enum_IconStyle_Square" xml:space="preserve">
     <value>Carré</value>
   </data>
-  <data name="Enum_IconStyle_HearthStats" xml:space="preserve">
-    <value>HearthStats</value>
-  </data>
+  
   <data name="Enum_MetroTheme_BaseLight" xml:space="preserve">
     <value>Clair</value>
   </data>
@@ -2064,12 +1980,8 @@
   <data name="Enum_Region_Unknown" xml:space="preserve">
     <value>Inconnue</value>
   </data>
-  <data name="Enum_Region_US" xml:space="preserve">
-    <value>US</value>
-  </data>
-  <data name="Enum_Region_EU" xml:space="preserve">
-    <value>EU</value>
-  </data>
+  
+  
   <data name="Enum_Region_Asia" xml:space="preserve">
     <value>Asie</value>
   </data>
@@ -2157,9 +2069,7 @@
   <data name="DeckPanel_Button_Import" xml:space="preserve">
     <value>Importer</value>
   </data>
-  <data name="Help_Label_Faq" xml:space="preserve">
-    <value>FAQ</value>
-  </data>
+  
   <data name="Help_Faq_Hyperlink" xml:space="preserve">
     <value>Aller à la FAQ.</value>
   </data>
@@ -2325,9 +2235,7 @@
   <data name="Enum_DeckType_Arena" xml:space="preserve">
     <value>Arène</value>
   </data>
-  <data name="Enum_DeckType_Standard" xml:space="preserve">
-    <value>Standard</value>
-  </data>
+  
   <data name="Enum_DeckType_Wild" xml:space="preserve">
     <value>Libre</value>
   </data>
@@ -2553,9 +2461,7 @@
   <data name="MessageDialogs_SavedFile_Title" xml:space="preserve">
     <value>Enregistré dans</value>
   </data>
-  <data name="MessageDialogs_SavedFile_Button_Ok" xml:space="preserve">
-    <value>Ok</value>
-  </data>
+  
   <data name="MessageDialogs_SavedFile_Button_OpenFolder" xml:space="preserve">
     <value>Ouvrir le dossier</value>
   </data>
@@ -2565,9 +2471,7 @@
   <data name="MessageDialogs_SaveUpload_Text_Uploaded" xml:space="preserve">
     <value>Téléversé sur</value>
   </data>
-  <data name="MessageDialogs_SaveUpload_Button_Ok" xml:space="preserve">
-    <value>Ok</value>
-  </data>
+  
   <data name="MessageDialogs_SaveUpload_Button_Browser" xml:space="preserve">
     <value>Ouvrir dans le navigateur</value>
   </data>
@@ -2910,9 +2814,7 @@
   <data name="MainWindow_Menu_Deck_VersionHistory" xml:space="preserve">
     <value>Historique des versions</value>
   </data>
-  <data name="MainWindow_DeckBuilder_Header_Deck" xml:space="preserve">
-    <value>Deck</value>
-  </data>
+  
   <data name="MainWindow_DeckBuilder_Header_CardDatabase" xml:space="preserve">
     <value>Base de données des cartes</value>
   </data>
@@ -3024,9 +2926,7 @@
   <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
     <value>Chargement…</value>
   </data>
-  <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
-    <value>Matchups</value>
-  </data>
+  
   <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
     <value>Statistiques du deck / guide du mulligan</value>
   </data>
@@ -3048,12 +2948,8 @@
   <data name="Hunter" xml:space="preserve">
     <value>Chasseur</value>
   </data>
-  <data name="Mage" xml:space="preserve">
-    <value>Mage</value>
-  </data>
-  <data name="Paladin" xml:space="preserve">
-    <value>Paladin</value>
-  </data>
+  
+  
   <data name="Priest" xml:space="preserve">
     <value>Prêtre</value>
   </data>
@@ -3141,63 +3037,31 @@
   <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
     <value>Le deck sélectionné ne contient aucune carte.</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Label_Setup" xml:space="preserve">
-    <value>Setup</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step1" xml:space="preserve">
-    <value>Step 1:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step2" xml:space="preserve">
-    <value>Step 2:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step3" xml:space="preserve">
-    <value>Step 3:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Link" xml:space="preserve">
-    <value>Authenticate with HSReplay.net</value>
-  </data>
+  
+  
+  
+  
+  
   <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
     <value>Lier le compte Twitch à HSReplay.net</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
     <value>Installer/configurer l'extension Twitch</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Success" xml:space="preserve">
-    <value>Authenticated as</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Error" xml:space="preserve">
-    <value>Something went wrong. Try running HDT as administrator for this step. Otherwise please try again later.</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
-    <value>Linked to</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Error" xml:space="preserve">
-    <value>No Account linked</value>
-  </data>
+  
+  
+  
+  
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
     <value>Activer l'intégration de l'extension Twitch</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Label_Status" xml:space="preserve">
-    <value>Status</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Enabled" xml:space="preserve">
-    <value>Enabled:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Success" xml:space="preserve">
-    <value>Enabled</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Error" xml:space="preserve">
-    <value>Disabled</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Setup" xml:space="preserve">
-    <value>Setup:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Success" xml:space="preserve">
-    <value>Complete</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Error" xml:space="preserve">
-    <value>Incomplete</value>
-  </data>
+  
+  
+  
+  
+  
+  
+  
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
     <value>Stream :</value>
   </data>
@@ -3207,9 +3071,7 @@
   <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
     <value>Hors ligne</value>
   </data>
-  <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Streaming</value>
-  </data>
+  
   <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
     <value>Overlay capturable</value>
   </data>
@@ -3219,9 +3081,7 @@
   <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
     <value>Voir le guide de configuration complet</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
-    <value>Not connected</value>
-  </data>
+  
   <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
     <value>Kobolds et Catacombes</value>
   </data>
@@ -3234,43 +3094,21 @@
   <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
     <value>Kobolds et Catacombes :</value>
   </data>
-  <data name="Enum_DeckType_Dungeon" xml:space="preserve">
-    <value>Dungeon</value>
-  </data>
+  
   <data name="Enum_DeckType_Brawl" xml:space="preserve">
     <value>Bras de fer</value>
   </data>
-  <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>Dungeon Runs</value>
-  </data>
+  
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>Importer automatiquement les nouveaux decks</value>
   </data>
-  <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
-    <value>Dungeon deck name template</value>
-  </data>
-  <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
-    <value>Include passive cards</value>
-  </data>
-  <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
-    <value>Show decks tagged as "Favorite" first</value>
-  </data>
-  <data name="Button_Download" xml:space="preserve">
-    <value>Download</value>
-  </data>
-  <data name="Button_Notnow" xml:space="preserve">
-    <value>Not now</value>
-  </data>
-  <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
-    <value>A new BETA update is available</value>
-  </data>
-  <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
-    <value>Press "Download" to automatically update.</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
-    <value>Flash Hearthstone on friendly challenge</value>
-  </data>
-  <data name="Test_string" xml:space="preserve">
-    <value>Test!</value>
-  </data>
+  
+  
+  
+  
+  
+  
+  
+  
+  
 </root>
