@@ -534,9 +534,7 @@
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
     <value>Налаштування</value>
   </data>
-  <data name="Options_Tracker_Logging_Header" xml:space="preserve">
-    <value>Logging</value>
-  </data>
+  
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
     <value>Назва/опис відмітки...</value>
   </data>
@@ -942,9 +940,7 @@
   <data name="Options_Tracker_Importing_Label_TemplatesPreview" xml:space="preserve">
     <value>Перегляд:</value>
   </data>
-  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
-    <value>Edit</value>
-  </data>
+  
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>Мережа</value>
   </data>
@@ -954,12 +950,8 @@
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
     <value>Автоматично зберігати колоду при імпорті</value>
   </data>
-  <data name="Options_Tracker_Importing_Web_CheckBox_AutoSaveNetDeck" xml:space="preserve">
-    <value>Auto import via NetDeck</value>
-  </data>
-  <data name="Options_Tracker_Importing_Web_Hyperlink_NetDeck" xml:space="preserve">
-    <value>Download NetDeck (Chrome ext.)</value>
-  </data>
+  
+  
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
     <value>Результат гри</value>
   </data>
@@ -1077,9 +1069,7 @@
   <data name="Options_Tracker_Settings_CheckBox_Newsbar" xml:space="preserve">
     <value>Показувати панель новин</value>
   </data>
-  <data name="Options_Tracker_Settings_CheckBox_Log" xml:space="preserve">
-    <value>Show Log</value>
-  </data>
+  
   <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
     <value>встановити шлях до Hearthstone</value>
   </data>
@@ -1875,9 +1865,7 @@
   <data name="ManaCurve_Tooltip_Label_Minions" xml:space="preserve">
     <value>Істоти</value>
   </data>
-  <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
-    <value>Heroes</value>
-  </data>
+  
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
     <value>Механіки</value>
   </data>
@@ -2049,9 +2037,7 @@
   <data name="Enum_IconStyle_Square" xml:space="preserve">
     <value>Квадратні</value>
   </data>
-  <data name="Enum_IconStyle_HearthStats" xml:space="preserve">
-    <value>HearthStats</value>
-  </data>
+  
   <data name="Enum_MetroTheme_BaseLight" xml:space="preserve">
     <value>Світла</value>
   </data>
@@ -2811,466 +2797,162 @@
   <data name="Options_Tracker_Settings_CheckBox_AltScreenCapture_Tooltip" xml:space="preserve">
     <value>Спробуйте увімкнути це налаштування, якщо у вас є проблеми з виявленням рангу/рангових ігор.</value>
   </data>
-  <data name="DeckSetIcons_Tooltip_Ungoro" xml:space="preserve">
-    <value>Deck contains cards from the Journey to Un'Goro expansion.</value>
-  </data>
-  <data name="Stats_Arena_Rewards_Label_Packs_Ungoro" xml:space="preserve">
-    <value>Journey to Un'Goro:</value>
-  </data>
-  <data name="Enum_ArenaRewardPacks_JourneyToUngoro" xml:space="preserve">
-    <value>Journey to Un'Goro</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set_Ungoro" xml:space="preserve">
-    <value>Journey to Un'Goro</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set_HallOfFame" xml:space="preserve">
-    <value>Hall of Fame</value>
-  </data>
-  <data name="DeckPicker_Deck_Wild_Tooltip" xml:space="preserve">
-    <value>This deck can only be used in 'Wild' mode</value>
-  </data>
-  <data name="DeckPicker_Deck_HsReplayDataIndicator_Tooltip" xml:space="preserve">
-    <value>This deck has global statistics and mulligan information available on HSReplay.net</value>
-  </data>
-  <data name="MainWindow_DeckList_Button_HSReplay" xml:space="preserve">
-    <value>HSReplay Mulligan Guide</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_Export" xml:space="preserve">
-    <value>Export</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_Screenshot" xml:space="preserve">
-    <value>Screenshot</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_Screenshot_CardsOnly" xml:space="preserve">
-    <value>Cards only</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo" xml:space="preserve">
-    <value>With info</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_Screenshot_WithInfo_Tooltip" xml:space="preserve">
-    <value>Includes deck name, class, sets and dust cost</value>
-  </data>
-  <data name="WebImportingDialog_Title" xml:space="preserve">
-    <value>Import from web</value>
-  </data>
-  <data name="WebImportingDialog_Label_EnterUrl" xml:space="preserve">
-    <value>Enter deck URL:</value>
-  </data>
-  <data name="WebImportingDialog_Hyperlink_AllWebsites" xml:space="preserve">
-    <value>Find all supported websites</value>
-  </data>
-  <data name="WebImportingDialog_Button_Import" xml:space="preserve">
-    <value>Import</value>
-  </data>
-  <data name="WebImportingDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
-  </data>
-  <data name="MainWindow_Flyout_DeckScreenshot_Header" xml:space="preserve">
-    <value>Screenshot</value>
-  </data>
-  <data name="DeckScreenshot_Label_CardsOnly" xml:space="preserve">
-    <value>Cards only</value>
-  </data>
-  <data name="DeckScreenshot_Label_Title" xml:space="preserve">
-    <value>Title:</value>
-  </data>
-  <data name="DeckScreenshot_Button_SaveToDisk" xml:space="preserve">
-    <value>Save to disk</value>
-  </data>
-  <data name="DeckScreenshot_Text_UploadError" xml:space="preserve">
-    <value>Error uploading. Please try again later and/or upload manually</value>
-  </data>
-  <data name="DeckScreenshot_Preview_Header" xml:space="preserve">
-    <value>Preview</value>
-  </data>
-  <data name="DeckScreenshot_Button_Clipboard_Copy" xml:space="preserve">
-    <value>Copy to clipboard</value>
-  </data>
-  <data name="DeckScreenshot_Button_Clipboard_Copied" xml:space="preserve">
-    <value>Copied!</value>
-  </data>
-  <data name="DeckScreenshot_Button_Imgur_Upload" xml:space="preserve">
-    <value>Upload to Imgur</value>
-  </data>
-  <data name="DeckScreenshot_Button_Imgur_Uploading" xml:space="preserve">
-    <value>Uploading...</value>
-  </data>
-  <data name="DeckScreenshot_Button_Imgur_Success" xml:space="preserve">
-    <value>Upload successful</value>
-  </data>
-  <data name="DeckScreenshot_Label_OpenFolder" xml:space="preserve">
-    <value>Open folder</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_VersionHistory" xml:space="preserve">
-    <value>Version history</value>
-  </data>
-  <data name="MainWindow_Flyout_VersionHistory_Header" xml:space="preserve">
-    <value>Version history</value>
-  </data>
-  <data name="MainWindow_Menu_Deck_VersionHistory" xml:space="preserve">
-    <value>Version history</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Header_Deck" xml:space="preserve">
-    <value>Deck</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Header_CardDatabase" xml:space="preserve">
-    <value>Card database</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_TextBox_Search_Watermark" xml:space="preserve">
-    <value>Search...</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Label_SearchCardText" xml:space="preserve">
-    <value>Search card text</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Header_Filters" xml:space="preserve">
-    <value>Filters</value>
-  </data>
-  <data name="Enum_DeckEditorWarnings_LessThan30" xml:space="preserve">
-    <value>Deck has less than 30 cards.</value>
-  </data>
-  <data name="Enum_DeckEditorWarnings_MoreThan30" xml:space="preserve">
-    <value>Deck has more than 30 cards.</value>
-  </data>
-  <data name="Enum_DeckEditorWarnings_NameAlreadyExists" xml:space="preserve">
-    <value>Name already exists.</value>
-  </data>
-  <data name="Enum_DeckEditorErrors_NameRequired" xml:space="preserve">
-    <value>Name is required.</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Label_SaveAs" xml:space="preserve">
-    <value>Save as</value>
-  </data>
-  <data name="DeckExport_Label_Instructions" xml:space="preserve">
-    <value>Instructions:</value>
-  </data>
-  <data name="DeckExport_Label_Step1" xml:space="preserve">
-    <value>Click the copy button below</value>
-  </data>
-  <data name="DeckExport_Label_Step2" xml:space="preserve">
-    <value>Create a new deck in Hearthstone</value>
-  </data>
-  <data name="DeckExport_Text_CodeInfo" xml:space="preserve">
-    <value>Only the code is required for importing to Hearthstone. Any line starting with a '#' is ignored.</value>
-  </data>
-  <data name="DeckExport_Button_CopyAll" xml:space="preserve">
-    <value>Copy all</value>
-  </data>
-  <data name="DeckExport_Button_CopyCode" xml:space="preserve">
-    <value>Copy code only</value>
-  </data>
-  <data name="DeckExport_Button_Copied" xml:space="preserve">
-    <value>Copied!</value>
-  </data>
-  <data name="MainWindow_Flyout_DeckExport_Header" xml:space="preserve">
-    <value>Export</value>
-  </data>
-  <data name="MainWindow_Flyout_DeckEditor_Header" xml:space="preserve">
-    <value>Deck editor</value>
-  </data>
-  <data name="MainWindow_Menu_Import_DeckString" xml:space="preserve">
-    <value>From deck code</value>
-  </data>
-  <data name="Options_Tracker_Stats_Label_DecksMyGames" xml:space="preserve">
-    <value>Decks / My Games / Overlay</value>
-  </data>
-  <data name="GameStats_Age_Day" xml:space="preserve">
-    <value>{0} day ago</value>
-  </data>
-  <data name="GameStats_Age_Days" xml:space="preserve">
-    <value>{0} days ago</value>
-  </data>
-  <data name="GameStats_Age_Hour" xml:space="preserve">
-    <value>{0} hour ago</value>
-  </data>
-  <data name="GameStats_Age_Hours" xml:space="preserve">
-    <value>{0} hours ago</value>
-  </data>
-  <data name="GameStats_Age_Minute" xml:space="preserve">
-    <value>{0} minute ago</value>
-  </data>
-  <data name="GameStats_Age_Minutes" xml:space="preserve">
-    <value>{0} minutes ago</value>
-  </data>
-  <data name="MainWindow_Header_GlobalDeckStatistics" xml:space="preserve">
-    <value>Global statistics - HSReplay.net</value>
-  </data>
-  <data name="MainWindow_Header_MyGames" xml:space="preserve">
-    <value>My games</value>
-  </data>
-  <data name="MainWindow_MyGames_HasActiveFilters" xml:space="preserve">
-    <value>Has active filters</value>
-  </data>
-  <data name="DeckCharts_Label_Wins" xml:space="preserve">
-    <value>Wins:</value>
-  </data>
-  <data name="DeckCharts_Label_Losses" xml:space="preserve">
-    <value>Losses:</value>
-  </data>
-  <data name="DeckCharts_Label_Winrate" xml:space="preserve">
-    <value>Winrate</value>
-  </data>
-  <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
-    <value>vs.</value>
-  </data>
-  <data name="DeckCharts_Tooltip_Uploaded" xml:space="preserve">
-    <value>Uploaded</value>
-  </data>
-  <data name="DeckCharts_Label_NoData" xml:space="preserve">
-    <value>No data.</value>
-  </data>
-  <data name="DeckCharts_Label_PlaySomeGames" xml:space="preserve">
-    <value>Play some games!</value>
-  </data>
-  <data name="HsReplayDeckInfo_Label_Loading" xml:space="preserve">
-    <value>Loading...</value>
-  </data>
-  <data name="HsReplayDeckInfo_Label_Machtups" xml:space="preserve">
-    <value>Matchups</value>
-  </data>
-  <data name="HsReplayDeckInfo_Button_DeckStatistics" xml:space="preserve">
-    <value>Deck Statistics / Mulligan Guide</value>
-  </data>
-  <data name="HsReplayDeckInfo_Label_NoData" xml:space="preserve">
-    <value>We don't have enough data for the selected deck.</value>
-  </data>
-  <data name="HsReplayDeckInfo_Label_NoSelectedDeck" xml:space="preserve">
-    <value>Select a deck with HSReplay.net icon to see global data here!</value>
-  </data>
-  <data name="HsReplayDeckInfo_Label_TrendingDecksPre" xml:space="preserve">
-    <value>Want to try something new?</value>
-  </data>
-  <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
-    <value>Check out our trending decks!</value>
-  </data>
-  <data name="Druid" xml:space="preserve">
-    <value>Druid</value>
-  </data>
-  <data name="Hunter" xml:space="preserve">
-    <value>Hunter</value>
-  </data>
-  <data name="Mage" xml:space="preserve">
-    <value>Mage</value>
-  </data>
-  <data name="Paladin" xml:space="preserve">
-    <value>Paladin</value>
-  </data>
-  <data name="Priest" xml:space="preserve">
-    <value>Priest</value>
-  </data>
-  <data name="Shaman" xml:space="preserve">
-    <value>Shaman</value>
-  </data>
-  <data name="Rogue" xml:space="preserve">
-    <value>Rogue</value>
-  </data>
-  <data name="Warlock" xml:space="preserve">
-    <value>Warlock</value>
-  </data>
-  <data name="Warrior" xml:space="preserve">
-    <value>Warrior</value>
-  </data>
-  <data name="DeckCharts_Tooltip_NoReplayData" xml:space="preserve">
-    <value>No replay data available</value>
-  </data>
-  <data name="DeckCharts_Label_NoSelectedDeck" xml:space="preserve">
-    <value>Select a deck to see your recent games!</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_MyGames" xml:space="preserve">
-    <value>Show my games panel</value>
-  </data>
-  <data name="DeckExport_Header_MissingCards" xml:space="preserve">
-    <value>Missing cards</value>
-  </data>
-  <data name="DeckExport_MissingCards_Label_TotalCost" xml:space="preserve">
-    <value>Total dust cost:</value>
-  </data>
-  <data name="DeckExport_MissingCards_Label_StartHearthstone" xml:space="preserve">
-    <value>Start Hearthstone to see your missing cards!</value>
-  </data>
-  <data name="DeckExport_MissingCards_Label_AllOwned" xml:space="preserve">
-    <value>You own all the required cards!</value>
-  </data>
-  <data name="Options_Tracker_Importing_Button_Save" xml:space="preserve">
-    <value>Save</value>
-  </data>
-  <data name="DeckExport_Checkbox_IncludeVersion" xml:space="preserve">
-    <value>Include deck version</value>
-  </data>
-  <data name="TrayIcon_MenuItemStartHearthstone" xml:space="preserve">
-    <value>Start Launcher/Hearthstone</value>
-  </data>
-  <data name="TrayIcon_MenuItemUseNoDeck" xml:space="preserve">
-    <value>No-deck mode</value>
-  </data>
-  <data name="TrayIcon_MenuItemAutoSelect" xml:space="preserve">
-    <value>Autoselect deck</value>
-  </data>
-  <data name="TrayIcon_MenuItemClassCardsFirst" xml:space="preserve">
-    <value>Class cards first</value>
-  </data>
-  <data name="TrayIcon_MenuItemShow" xml:space="preserve">
-    <value>Show</value>
-  </data>
-  <data name="TrayIcon_MenuItemExit" xml:space="preserve">
-    <value>Exit</value>
-  </data>
-  <data name="DeckSetIcons_Tooltip_Icecrown" xml:space="preserve">
-    <value>Deck contains cards from the Knights of the Frozen Throne expansion.</value>
-  </data>
-  <data name="Stats_Arena_Rewards_Label_Packs_Icecrown" xml:space="preserve">
-    <value>Knights of the Frozen Throne:</value>
-  </data>
-  <data name="Enum_ArenaRewardPacks_KnightsOfTheFrozenThrone" xml:space="preserve">
-    <value>Knights of the Frozen Throne</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set_Icecrown" xml:space="preserve">
-    <value>Knights of the Frozen Throne</value>
-  </data>
-  <data name="SelectLanguageDialog_Title" xml:space="preserve">
-    <value>Select Language</value>
-  </data>
-  <data name="SelectLanguageDialog_Button_Copy" xml:space="preserve">
-    <value>Copy</value>
-  </data>
-  <data name="SelectLanguageDialog_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
-  </data>
-  <data name="ShowMessage_CopyCardNames_Error" xml:space="preserve">
-    <value>Error occurred while copying card names to clipboard.</value>
-  </data>
-  <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
-    <value>The selected deck doesn't have any cards.</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Setup" xml:space="preserve">
-    <value>Setup</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step1" xml:space="preserve">
-    <value>Step 1:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step2" xml:space="preserve">
-    <value>Step 2:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step3" xml:space="preserve">
-    <value>Step 3:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Link" xml:space="preserve">
-    <value>Authenticate with HSReplay.net</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
-    <value>Link Twitch Account on HSReplay.net</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
-    <value>Install/Configure Twitch Extension</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Success" xml:space="preserve">
-    <value>Authenticated as</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Error" xml:space="preserve">
-    <value>Something went wrong. Try running HDT as administrator for this step. Otherwise please try again later.</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
-    <value>Linked to</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Error" xml:space="preserve">
-    <value>No Account linked</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
-    <value>Enable Twitch Extension integration</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Status" xml:space="preserve">
-    <value>Status</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Enabled" xml:space="preserve">
-    <value>Enabled:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Success" xml:space="preserve">
-    <value>Enabled</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Error" xml:space="preserve">
-    <value>Disabled</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Setup" xml:space="preserve">
-    <value>Setup:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Success" xml:space="preserve">
-    <value>Complete</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Error" xml:space="preserve">
-    <value>Incomplete</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
-    <value>Stream:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Stream_Success" xml:space="preserve">
-    <value>Live</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Stream_Error" xml:space="preserve">
-    <value>Offline</value>
-  </data>
-  <data name="Options_Streaming_Header" xml:space="preserve">
-    <value>Streaming</value>
-  </data>
-  <data name="Options_Streaming_CaptureableOverlay_Header" xml:space="preserve">
-    <value>Capturable Overlay</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Header" xml:space="preserve">
-    <value>Twitch Extension</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
-    <value>View full setup guide</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
-    <value>Not connected</value>
-  </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
-    <value>Kobolds and Catacombs</value>
-  </data>
-  <data name="DeckSetIcons_Tooltip_Loot" xml:space="preserve">
-    <value>Deck contains cards from the Kobolds and Catacombs expansion.</value>
-  </data>
-  <data name="Enum_ArenaRewardPacks_KoboldsAndCatacombs" xml:space="preserve">
-    <value>Kobolds and Catacombs</value>
-  </data>
-  <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
-    <value>Kobolds and Catacombs:</value>
-  </data>
-  <data name="Enum_DeckType_Dungeon" xml:space="preserve">
-    <value>Dungeon</value>
-  </data>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <data name="Enum_DeckType_Brawl" xml:space="preserve">
     <value>Буча</value>
   </data>
-  <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>Dungeon Runs</value>
-  </data>
+  
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>Автоматично імпортувати нові колоди</value>
   </data>
-  <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
-    <value>Dungeon deck name template</value>
-  </data>
-  <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
-    <value>Include passive cards</value>
-  </data>
-  <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
-    <value>Show decks tagged as "Favorite" first</value>
-  </data>
-  <data name="Button_Download" xml:space="preserve">
-    <value>Download</value>
-  </data>
-  <data name="Button_Notnow" xml:space="preserve">
-    <value>Not now</value>
-  </data>
-  <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
-    <value>A new BETA update is available</value>
-  </data>
-  <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
-    <value>Press "Download" to automatically update.</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
-    <value>Flash Hearthstone on friendly challenge</value>
-  </data>
-  <data name="Test_string" xml:space="preserve">
-    <value>Test!</value>
-  </data>
+  
+  
+  
+  
+  
+  
+  
+  
+  
 </root>
