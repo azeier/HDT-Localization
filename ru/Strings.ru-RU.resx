@@ -534,9 +534,7 @@
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
     <value>Установки</value>
   </data>
-  <data name="Options_Tracker_Logging_Header" xml:space="preserve">
-    <value>Logging</value>
-  </data>
+  
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
     <value>Имя/описание...</value>
   </data>
@@ -954,12 +952,8 @@
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
     <value>Автосохр. колоды для импорта</value>
   </data>
-  <data name="Options_Tracker_Importing_Web_CheckBox_AutoSaveNetDeck" xml:space="preserve">
-    <value>Auto import via NetDeck</value>
-  </data>
-  <data name="Options_Tracker_Importing_Web_Hyperlink_NetDeck" xml:space="preserve">
-    <value>Download NetDeck (Chrome ext.)</value>
-  </data>
+  
+  
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
     <value>Итог игры</value>
   </data>
@@ -1077,9 +1071,7 @@
   <data name="Options_Tracker_Settings_CheckBox_Newsbar" xml:space="preserve">
     <value>Показ новостей</value>
   </data>
-  <data name="Options_Tracker_Settings_CheckBox_Log" xml:space="preserve">
-    <value>Show Log</value>
-  </data>
+  
   <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
     <value>Назначить пусть к Hearthstone</value>
   </data>
@@ -1119,9 +1111,7 @@
   <data name="Options_Tracker_Stats_CheckBox_Other" xml:space="preserve">
     <value>Другое</value>
   </data>
-  <data name="Options_Tracker_Stats_Label_Display" xml:space="preserve">
-    <value>Display</value>
-  </data>
+  
   <data name="Options_Tracker_Stats_Label_DecksOverlay" xml:space="preserve">
     <value>(для колод и наложения)</value>
   </data>
@@ -2049,9 +2039,7 @@
   <data name="Enum_IconStyle_Square" xml:space="preserve">
     <value>Квадрат</value>
   </data>
-  <data name="Enum_IconStyle_HearthStats" xml:space="preserve">
-    <value>HearthStats</value>
-  </data>
+  
   <data name="Enum_MetroTheme_BaseLight" xml:space="preserve">
     <value>Свет</value>
   </data>
@@ -3141,63 +3129,31 @@
   <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
     <value>У выбранной колоды нет карт.</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Label_Setup" xml:space="preserve">
-    <value>Setup</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step1" xml:space="preserve">
-    <value>Step 1:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step2" xml:space="preserve">
-    <value>Step 2:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step3" xml:space="preserve">
-    <value>Step 3:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Link" xml:space="preserve">
-    <value>Authenticate with HSReplay.net</value>
-  </data>
+  
+  
+  
+  
+  
   <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
     <value>Ссылка на твич на сайте HSReplay.net</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
     <value>Установить/настроить Твич-расширение</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Success" xml:space="preserve">
-    <value>Authenticated as</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Error" xml:space="preserve">
-    <value>Something went wrong. Try running HDT as administrator for this step. Otherwise please try again later.</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
-    <value>Linked to</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Error" xml:space="preserve">
-    <value>No Account linked</value>
-  </data>
+  
+  
+  
+  
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
     <value>Включить интеграцию Твич-расширения</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Label_Status" xml:space="preserve">
-    <value>Status</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Enabled" xml:space="preserve">
-    <value>Enabled:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Success" xml:space="preserve">
-    <value>Enabled</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Error" xml:space="preserve">
-    <value>Disabled</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Setup" xml:space="preserve">
-    <value>Setup:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Success" xml:space="preserve">
-    <value>Complete</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Error" xml:space="preserve">
-    <value>Incomplete</value>
-  </data>
+  
+  
+  
+  
+  
+  
+  
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
     <value>Поток:</value>
   </data>
@@ -3219,9 +3175,7 @@
   <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
     <value>Просмотреть полное руководство по настройке</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
-    <value>Not connected</value>
-  </data>
+  
   <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
     <value>Кобольды и катакомбы</value>
   </data>
@@ -3234,43 +3188,21 @@
   <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
     <value>Кобольды и катакомбы:</value>
   </data>
-  <data name="Enum_DeckType_Dungeon" xml:space="preserve">
-    <value>Dungeon</value>
-  </data>
+  
   <data name="Enum_DeckType_Brawl" xml:space="preserve">
     <value>Потасовка</value>
   </data>
-  <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>Dungeon Runs</value>
-  </data>
+  
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>Автоимпорт новых колод</value>
   </data>
-  <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
-    <value>Dungeon deck name template</value>
-  </data>
-  <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
-    <value>Include passive cards</value>
-  </data>
-  <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
-    <value>Show decks tagged as "Favorite" first</value>
-  </data>
-  <data name="Button_Download" xml:space="preserve">
-    <value>Download</value>
-  </data>
-  <data name="Button_Notnow" xml:space="preserve">
-    <value>Not now</value>
-  </data>
-  <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
-    <value>A new BETA update is available</value>
-  </data>
-  <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
-    <value>Press "Download" to automatically update.</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
-    <value>Flash Hearthstone on friendly challenge</value>
-  </data>
-  <data name="Test_string" xml:space="preserve">
-    <value>Test!</value>
-  </data>
+  
+  
+  
+  
+  
+  
+  
+  
+  
 </root>
