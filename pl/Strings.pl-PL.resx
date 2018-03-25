@@ -120,9 +120,7 @@
   <data name="MainWindow_Menu_New" xml:space="preserve">
     <value>_Nowy</value>
   </data>
-  <data name="MainWindow_Menu_Class_Druid" xml:space="preserve">
-    <value>_Druid</value>
-  </data>
+  
   <data name="MainWindow_Menu_Class_Hunter" xml:space="preserve">
     <value>_Łowca</value>
   </data>
@@ -201,9 +199,7 @@
   <data name="MainWindow_Menu_Deck" xml:space="preserve">
     <value>Talia</value>
   </data>
-  <data name="MainWindow_Menu_Import" xml:space="preserve">
-    <value>_Import</value>
-  </data>
+  
   <data name="MainWindow_Menu_Import_Web" xml:space="preserve">
     <value>Z _internetu</value>
   </data>
@@ -258,9 +254,7 @@
   <data name="MainWindow_Menu_Stats" xml:space="preserve">
     <value>_Statystyki</value>
   </data>
-  <data name="MainWindow_Menu_Stats_Arena" xml:space="preserve">
-    <value>_Arena</value>
-  </data>
+  
   <data name="MainWindow_Menu_Stats_Constructed" xml:space="preserve">
     <value>_Utworzone</value>
   </data>
@@ -282,9 +276,7 @@
   <data name="MainWindow_Menu_Replays_MyAccount" xml:space="preserve">
     <value>Moje konto</value>
   </data>
-  <data name="MainWindow_Menu_HearthStats_Login" xml:space="preserve">
-    <value>Login</value>
-  </data>
+  
   <data name="MainWindow_Menu_HearthStats_Dashboard" xml:space="preserve">
     <value>Tablica (z internetu)</value>
   </data>
@@ -402,9 +394,7 @@
   <data name="MainWindow_DeckBuilder_Filter_Type" xml:space="preserve">
     <value>Typ</value>
   </data>
-  <data name="MainWindow_DeckBuilder_Filter_Set" xml:space="preserve">
-    <value>Set</value>
-  </data>
+  
   <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
     <value>Wszystkie</value>
   </data>
@@ -534,9 +524,7 @@
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
     <value>Ustawienia</value>
   </data>
-  <data name="Options_Tracker_Logging_Header" xml:space="preserve">
-    <value>Logging</value>
-  </data>
+  
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
     <value>Wyszukaj nazwę lub opis...</value>
   </data>
@@ -882,9 +870,7 @@
   <data name="Options_Tracker_General_CheckBox_AutoArchiveArena" xml:space="preserve">
     <value>Zarchiwizuj talię po skończeniu areny</value>
   </data>
-  <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
-    <value>Format:</value>
-  </data>
+  
   <data name="Options_Tracker_Hotkeys_Table_Mod" xml:space="preserve">
     <value>Modyfikator</value>
   </data>
@@ -927,9 +913,7 @@
   <data name="Options_Tracker_Importing_Constructed_CheckBox_Update" xml:space="preserve">
     <value>Automatyczny import zmodyfikowanych talii</value>
   </data>
-  <data name="Options_Tracker_Importing_Label_Arena" xml:space="preserve">
-    <value>Arena</value>
-  </data>
+  
   <data name="Options_Tracker_Importing_Label_ArenaBehavior" xml:space="preserve">
     <value>Zasady importowania:</value>
   </data>
@@ -945,21 +929,15 @@
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
     <value>Edytuj</value>
   </data>
-  <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
-    <value>Web</value>
-  </data>
+  
   <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
     <value>Dodaj etykiety do talii podczas importowania</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
     <value>Autozapis talii po zaimportowaniu</value>
   </data>
-  <data name="Options_Tracker_Importing_Web_CheckBox_AutoSaveNetDeck" xml:space="preserve">
-    <value>Auto import via NetDeck</value>
-  </data>
-  <data name="Options_Tracker_Importing_Web_Hyperlink_NetDeck" xml:space="preserve">
-    <value>Download NetDeck (Chrome ext.)</value>
-  </data>
+  
+  
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
     <value>Wynik gry</value>
   </data>
@@ -1008,9 +986,7 @@
   <data name="Options_Tracker_Replays_CheckBox_Casual" xml:space="preserve">
     <value>Nierankingowa</value>
   </data>
-  <data name="Options_Tracker_Replays_CheckBox_Arena" xml:space="preserve">
-    <value>Arena</value>
-  </data>
+  
   <data name="Options_Tracker_Replays_CheckBox_Brawl" xml:space="preserve">
     <value>Karczemna Bójka</value>
   </data>
@@ -1077,9 +1053,7 @@
   <data name="Options_Tracker_Settings_CheckBox_Newsbar" xml:space="preserve">
     <value>Pokaż pasek z wiadomościami</value>
   </data>
-  <data name="Options_Tracker_Settings_CheckBox_Log" xml:space="preserve">
-    <value>Show Log</value>
-  </data>
+  
   <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
     <value>Ustaw ścieżkę dostępu do Hearthstone</value>
   </data>
@@ -1098,9 +1072,7 @@
   <data name="Options_Tracker_Stats_CheckBox_Ranked" xml:space="preserve">
     <value>Ranking</value>
   </data>
-  <data name="Options_Tracker_Stats_CheckBox_Arena" xml:space="preserve">
-    <value>Arena</value>
-  </data>
+  
   <data name="Options_Tracker_Stats_CheckBox_Brawl" xml:space="preserve">
     <value>Karczemna Bójka</value>
   </data>
@@ -1188,18 +1160,10 @@
   <data name="DeckPicker_ContextMenu_MoveToConstructed" xml:space="preserve">
     <value>Przenieś do utworzonych</value>
   </data>
-  <data name="DeckPicker_ContextMenu_MissingCards" xml:space="preserve">
-    <value>Show _Missing cards</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_Update" xml:space="preserve">
-    <value>_Update (web)</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_OpenWebsite" xml:space="preserve">
-    <value>Open _Website</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_OpenHearthstats" xml:space="preserve">
-    <value>Open HearthStats</value>
-  </data>
+  
+  
+  
+  
   <data name="DeckPicker_ContextMenu_Archive" xml:space="preserve">
     <value>_Zarchiwizuj</value>
   </data>
@@ -1218,12 +1182,8 @@
   <data name="DeckPicker_ContextMenu_Clone_Version" xml:space="preserve">
     <value>Wybraną wersję</value>
   </data>
-  <data name="DeckPicker_ContextMenu_LinkUrl" xml:space="preserve">
-    <value>Link to ur_l</value>
-  </data>
-  <data name="DeckPicker_ContextMenu_LinkNewUrl" xml:space="preserve">
-    <value>Link to new ur_l</value>
-  </data>
+  
+  
   <data name="Stats_Arena_Advanced_Label_Note" xml:space="preserve">
     <value>Uwaga</value>
   </data>
@@ -1359,9 +1319,7 @@
   <data name="Stats_Arena_Runs_Table_Duration" xml:space="preserve">
     <value>Czas gry</value>
   </data>
-  <data name="Stats_Arena_Runs_Table_Region" xml:space="preserve">
-    <value>Region</value>
-  </data>
+  
   <data name="Stats_Arena_Runs_Table_Button_EditRewards" xml:space="preserve">
     <value>Edytuj nagrody</value>
   </data>
@@ -1383,9 +1341,7 @@
   <data name="Stats_Arena_Runs_Table_Button_DeleteGame" xml:space="preserve">
     <value>Usuń grę</value>
   </data>
-  <data name="Stats_Arena_Runs_Table_Game_Vs" xml:space="preserve">
-    <value>VS</value>
-  </data>
+  
   <data name="Stats_Arena_Runs_Table_Game_Started" xml:space="preserve">
     <value>Data</value>
   </data>
@@ -1449,9 +1405,7 @@
   <data name="Stats_Arena_Summary_Highlights_LeastPicked" xml:space="preserve">
     <value>Najrzadziej wybierany</value>
   </data>
-  <data name="Stats_Arena_Summary_Classes_Druid" xml:space="preserve">
-    <value>Druid</value>
-  </data>
+  
   <data name="Stats_Arena_Summary_Classes_Hunter" xml:space="preserve">
     <value>Łowca</value>
   </data>
@@ -1536,9 +1490,7 @@
   <data name="Stats_Constructed_Games_Table_Class" xml:space="preserve">
     <value>Klasa</value>
   </data>
-  <data name="Stats_Constructed_Games_Table_Vs" xml:space="preserve">
-    <value>VS</value>
-  </data>
+  
   <data name="Stats_Constructed_Games_Table_Name" xml:space="preserve">
     <value>Nick</value>
   </data>
@@ -1548,9 +1500,7 @@
   <data name="Stats_Constructed_Games_Table_Mode" xml:space="preserve">
     <value>Typ</value>
   </data>
-  <data name="Stats_Constructed_Games_Table_Format" xml:space="preserve">
-    <value>Format</value>
-  </data>
+  
   <data name="Stats_Constructed_Games_Table_Rank" xml:space="preserve">
     <value>Ranga</value>
   </data>
@@ -1566,9 +1516,7 @@
   <data name="Stats_Constructed_Games_Table_Duration" xml:space="preserve">
     <value>Czas gry</value>
   </data>
-  <data name="Stats_Constructed_Games_Table_Region" xml:space="preserve">
-    <value>Region</value>
-  </data>
+  
   <data name="Stats_Constructed_Games_Table_Replay" xml:space="preserve">
     <value>Powtórka</value>
   </data>
@@ -1665,9 +1613,7 @@
   <data name="Stats_Arena_Filters_Label_Class" xml:space="preserve">
     <value>Klasa:</value>
   </data>
-  <data name="Stats_Arena_Filters_Label_Region" xml:space="preserve">
-    <value>Region:</value>
-  </data>
+  
   <data name="Stats_Arena_Filters_CheckBox_Archive" xml:space="preserve">
     <value>Zarchiwizowane areny</value>
   </data>
@@ -1728,9 +1674,7 @@
   <data name="Stats_Constructed_Filters_Label_Class" xml:space="preserve">
     <value>Klasa:</value>
   </data>
-  <data name="Stats_Constructed_Filters_Label_Vs" xml:space="preserve">
-    <value>VS:</value>
-  </data>
+  
   <data name="Stats_Constructed_Filters_Label_Mode" xml:space="preserve">
     <value>Typ:</value>
   </data>
@@ -1740,9 +1684,7 @@
   <data name="Stats_Constructed_Filters_Label_RankTo" xml:space="preserve">
     <value>do</value>
   </data>
-  <data name="Stats_Constructed_Filters_Label_Format" xml:space="preserve">
-    <value>Format:</value>
-  </data>
+  
   <data name="Stats_Constructed_Filters_Label_Result" xml:space="preserve">
     <value>Wynik:</value>
   </data>
@@ -1755,9 +1697,7 @@
   <data name="Stats_Constructed_Filters_Label_Coin" xml:space="preserve">
     <value>Moneta:</value>
   </data>
-  <data name="Stats_Constructed_Filters_Label_Region" xml:space="preserve">
-    <value>Region:</value>
-  </data>
+  
   <data name="Stats_Constructed_Filters_Text_OpponentName_Watermark" xml:space="preserve">
     <value>Nick przeciwnika...</value>
   </data>
@@ -1773,9 +1713,7 @@
   <data name="Stats_Constructed_Filters_CheckBox_TagFilters_Tooltip" xml:space="preserve">
     <value>Dołącza eytkiety ustawione w głównym oknie programu (guzik z podwójną strzałką).</value>
   </data>
-  <data name="Stats_Overview_Label_Menu" xml:space="preserve">
-    <value>Menu</value>
-  </data>
+  
   <data name="Stats_Overview_Tree_Label_Arena" xml:space="preserve">
     <value>Areny</value>
   </data>
@@ -1884,9 +1822,7 @@
   <data name="ManaCurve_Button_Hide" xml:space="preserve">
     <value>Ukryj</value>
   </data>
-  <data name="Enum_StatType_Mana" xml:space="preserve">
-    <value>Mana</value>
-  </data>
+  
   <data name="Enum_StatType_Health" xml:space="preserve">
     <value>Życie</value>
   </data>
@@ -1962,9 +1898,7 @@
   <data name="Enum_Format_All" xml:space="preserve">
     <value>Wszystkie</value>
   </data>
-  <data name="Enum_Format_Standard" xml:space="preserve">
-    <value>Standard</value>
-  </data>
+  
   <data name="Enum_Format_Wild" xml:space="preserve">
     <value>Dzicz</value>
   </data>
@@ -1977,9 +1911,7 @@
   <data name="Enum_GameMode_Casual" xml:space="preserve">
     <value>Zwykły</value>
   </data>
-  <data name="Enum_GameMode_Arena" xml:space="preserve">
-    <value>Arena</value>
-  </data>
+  
   <data name="Enum_GameMode_Brawl" xml:space="preserve">
     <value>Karczemna Bójka</value>
   </data>
@@ -2013,9 +1945,7 @@
   <data name="Enum_HeroClass_All" xml:space="preserve">
     <value>Wszystkie</value>
   </data>
-  <data name="Enum_HeroClass_Druid" xml:space="preserve">
-    <value>Druid</value>
-  </data>
+  
   <data name="Enum_HeroClass_Hunter" xml:space="preserve">
     <value>Łowca</value>
   </data>
@@ -2049,9 +1979,7 @@
   <data name="Enum_IconStyle_Square" xml:space="preserve">
     <value>Kwadratowe</value>
   </data>
-  <data name="Enum_IconStyle_HearthStats" xml:space="preserve">
-    <value>HearthStats</value>
-  </data>
+  
   <data name="Enum_MetroTheme_BaseLight" xml:space="preserve">
     <value>Jasna</value>
   </data>
@@ -2064,12 +1992,8 @@
   <data name="Enum_Region_Unknown" xml:space="preserve">
     <value>Nieznany</value>
   </data>
-  <data name="Enum_Region_US" xml:space="preserve">
-    <value>US</value>
-  </data>
-  <data name="Enum_Region_EU" xml:space="preserve">
-    <value>EU</value>
-  </data>
+  
+  
   <data name="Enum_Region_Asia" xml:space="preserve">
     <value>Azja</value>
   </data>
@@ -2142,9 +2066,7 @@
   <data name="Enum_YesNo_No" xml:space="preserve">
     <value>Nie</value>
   </data>
-  <data name="Enum_YesNoAll_All" xml:space="preserve">
-    <value>All</value>
-  </data>
+  
   <data name="Options_Tracker_Appearance_Label_ClassColors" xml:space="preserve">
     <value>Kolor postaci:</value>
   </data>
@@ -2154,9 +2076,7 @@
   <data name="DeckNotes_Button_Save_Tooltip" xml:space="preserve">
     <value>Automatycznie zapisuje po zamknięciu okna</value>
   </data>
-  <data name="DeckPanel_Button_Import" xml:space="preserve">
-    <value>Import</value>
-  </data>
+  
   <data name="Help_Label_Faq" xml:space="preserve">
     <value>Najczęściej zadawane pytania - FAQ</value>
   </data>
@@ -2172,9 +2092,7 @@
   <data name="Help_Overlay_CardMarks_Label_Coin" xml:space="preserve">
     <value>Moneta</value>
   </data>
-  <data name="Help_Overlay_CardMarks_Label_Mulligan" xml:space="preserve">
-    <value>Mulliganed</value>
-  </data>
+  
   <data name="Help_Overlay_CardMarks_Label_Returned" xml:space="preserve">
     <value>Cofnięta</value>
   </data>
@@ -2322,12 +2240,8 @@
   <data name="Enum_DeckType_All" xml:space="preserve">
     <value>Wszystkie</value>
   </data>
-  <data name="Enum_DeckType_Arena" xml:space="preserve">
-    <value>Arena</value>
-  </data>
-  <data name="Enum_DeckType_Standard" xml:space="preserve">
-    <value>Standard</value>
-  </data>
+  
+  
   <data name="Enum_DeckType_Wild" xml:space="preserve">
     <value>Dzicz</value>
   </data>
@@ -2343,12 +2257,8 @@
   <data name="SplashScreen_Text_Installing" xml:space="preserve">
     <value>Instalowanie...</value>
   </data>
-  <data name="TimerWindow_Title" xml:space="preserve">
-    <value>Timer</value>
-  </data>
-  <data name="StatsWindow_Title" xml:space="preserve">
-    <value>Stats</value>
-  </data>
+  
+  
   <data name="StatsWindow_Flyout_Label_OpponentDeck" xml:space="preserve">
     <value>Talia przeciwnika</value>
   </data>
@@ -2400,18 +2310,12 @@
   <data name="AddGameDialog_Label_Result" xml:space="preserve">
     <value>Wynik:</value>
   </data>
-  <data name="AddGameDialog_Label_Vs" xml:space="preserve">
-    <value>VS:</value>
-  </data>
+  
   <data name="AddGameDialog_Label_Mode" xml:space="preserve">
     <value>Typ:</value>
   </data>
-  <data name="AddGameDialog_Label_Format" xml:space="preserve">
-    <value>Format:</value>
-  </data>
-  <data name="AddGameDialog_Label_Region" xml:space="preserve">
-    <value>Region:</value>
-  </data>
+  
+  
   <data name="AddGameDialog_Label_Rank" xml:space="preserve">
     <value>Ranga:</value>
   </data>
@@ -2466,9 +2370,7 @@
   <data name="CrashDialog_Label_Error" xml:space="preserve">
     <value>Błąd:</value>
   </data>
-  <data name="CrashDialog_Button_StackTrace" xml:space="preserve">
-    <value>Show Stacktrace</value>
-  </data>
+  
   <data name="CrashDialog_Text" xml:space="preserve">
     <value>Aby pomóc nam naprawić błąd, prosimy napisać co zrobiłeś/zrobiłaś tuż przed wystąpieniem błędu. Wszelkie pomysły co mogło pójść nie tak są mile widziane. :)</value>
   </data>
@@ -2493,9 +2395,7 @@
   <data name="DeckTypeDialog_Label_Constructed" xml:space="preserve">
     <value>Stworzona talia</value>
   </data>
-  <data name="DeckTypeDialog_Label_Arena" xml:space="preserve">
-    <value>Arena</value>
-  </data>
+  
   <data name="DeckTypeDialog_Label_Brawl" xml:space="preserve">
     <value>Karczemna Bójka</value>
   </data>
@@ -2859,9 +2759,7 @@
   <data name="WebImportingDialog_Hyperlink_AllWebsites" xml:space="preserve">
     <value>Pokaż wszystkie wspierane strony</value>
   </data>
-  <data name="WebImportingDialog_Button_Import" xml:space="preserve">
-    <value>Import</value>
-  </data>
+  
   <data name="WebImportingDialog_Button_Cancel" xml:space="preserve">
     <value>Anuluj</value>
   </data>
@@ -3009,9 +2907,7 @@
   <data name="DeckCharts_Label_Winrate" xml:space="preserve">
     <value>Współczynnik zwycięstw</value>
   </data>
-  <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
-    <value>vs.</value>
-  </data>
+  
   <data name="DeckCharts_Tooltip_Uploaded" xml:space="preserve">
     <value>Wysłano</value>
   </data>
@@ -3042,9 +2938,7 @@
   <data name="HsReplayDeckInfo_Hyperlink_TrendingDecks" xml:space="preserve">
     <value>Sprawdź najpopularniejsze talie!</value>
   </data>
-  <data name="Druid" xml:space="preserve">
-    <value>Druid</value>
-  </data>
+  
   <data name="Hunter" xml:space="preserve">
     <value>Łowca</value>
   </data>
@@ -3141,63 +3035,31 @@
   <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
     <value>Wybrana talia nie ma żadnych kart!</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Label_Setup" xml:space="preserve">
-    <value>Setup</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step1" xml:space="preserve">
-    <value>Step 1:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step2" xml:space="preserve">
-    <value>Step 2:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step3" xml:space="preserve">
-    <value>Step 3:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Link" xml:space="preserve">
-    <value>Authenticate with HSReplay.net</value>
-  </data>
+  
+  
+  
+  
+  
   <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
     <value>Połącz konto Twitch z HSReplay.net</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
     <value>Zainstaluj/Skonfiguruj rozszerzenie Twitch</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Success" xml:space="preserve">
-    <value>Authenticated as</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Error" xml:space="preserve">
-    <value>Something went wrong. Try running HDT as administrator for this step. Otherwise please try again later.</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
-    <value>Linked to</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Error" xml:space="preserve">
-    <value>No Account linked</value>
-  </data>
+  
+  
+  
+  
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
     <value>Włącz integrację z rozszerzeniem Twitch</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Label_Status" xml:space="preserve">
-    <value>Status</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Enabled" xml:space="preserve">
-    <value>Enabled:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Success" xml:space="preserve">
-    <value>Enabled</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Error" xml:space="preserve">
-    <value>Disabled</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Setup" xml:space="preserve">
-    <value>Setup:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Success" xml:space="preserve">
-    <value>Complete</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Error" xml:space="preserve">
-    <value>Incomplete</value>
-  </data>
+  
+  
+  
+  
+  
+  
+  
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
     <value>Przesyłanie:</value>
   </data>
@@ -3219,9 +3081,7 @@
   <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
     <value>Zobacz pełną instrukcję konfiguracji</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
-    <value>Not connected</value>
-  </data>
+  
   <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
     <value>Koboldy i Katakumby</value>
   </data>
@@ -3270,7 +3130,5 @@
   <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
     <value>Podświetl Hearthstone, gdy znajomy rzuci Ci wyzwanie</value>
   </data>
-  <data name="Test_string" xml:space="preserve">
-    <value>Test!</value>
-  </data>
+  
 </root>
