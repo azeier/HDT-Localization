@@ -3270,4 +3270,7 @@
   <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
     <value>Podświetl Hearthstone, gdy znajomy rzuci Ci wyzwanie</value>
   </data>
+  <data name="Test_string" xml:space="preserve">
+    <value>Test!</value>
+  </data>
 </root>
