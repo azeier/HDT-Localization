@@ -483,9 +483,7 @@
   <data name="Options_Overlay_General_Header" xml:space="preserve">
     <value>一般</value>
   </data>
-  <data name="Options_Overlay_Windows_Header" xml:space="preserve">
-    <value>Windows</value>
-  </data>
+  
   <data name="Options_Overlay_Player_Header" xml:space="preserve">
     <value>プレーヤー</value>
   </data>
@@ -534,9 +532,7 @@
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
     <value>設定</value>
   </data>
-  <data name="Options_Tracker_Logging_Header" xml:space="preserve">
-    <value>Logging</value>
-  </data>
+  
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
     <value>チェック ボックスの名前/説明...</value>
   </data>
@@ -885,9 +881,7 @@
   <data name="Options_Tracker_General_Label_Format" xml:space="preserve">
     <value>形式:</value>
   </data>
-  <data name="Options_Tracker_Hotkeys_Table_Mod" xml:space="preserve">
-    <value>Mod</value>
-  </data>
+  
   <data name="Options_Tracker_Hotkeys_Table_Key" xml:space="preserve">
     <value>キー</value>
   </data>
@@ -900,9 +894,7 @@
   <data name="Options_Tracker_Hotkeys_LabelNew" xml:space="preserve">
     <value>新機能</value>
   </data>
-  <data name="Options_Tracker_Hotkeys_Label_Mod" xml:space="preserve">
-    <value>Mod:</value>
-  </data>
+  
   <data name="Options_Tracker_Hotkeys_Label_Key" xml:space="preserve">
     <value>キー:</value>
   </data>
@@ -945,21 +937,15 @@
   <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
     <value>編集</value>
   </data>
-  <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
-    <value>Web</value>
-  </data>
+  
   <data name="Options_Tracker_Importing_Web_CheckBox_Tags" xml:space="preserve">
     <value>インポートしたデッキにタグをつける</value>
   </data>
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
     <value>自動インポートのデッキを保存</value>
   </data>
-  <data name="Options_Tracker_Importing_Web_CheckBox_AutoSaveNetDeck" xml:space="preserve">
-    <value>Auto import via NetDeck</value>
-  </data>
-  <data name="Options_Tracker_Importing_Web_Hyperlink_NetDeck" xml:space="preserve">
-    <value>Download NetDeck (Chrome ext.)</value>
-  </data>
+  
+  
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
     <value>試合結果</value>
   </data>
@@ -1077,9 +1063,7 @@
   <data name="Options_Tracker_Settings_CheckBox_Newsbar" xml:space="preserve">
     <value>ニュースバーを表示</value>
   </data>
-  <data name="Options_Tracker_Settings_CheckBox_Log" xml:space="preserve">
-    <value>Show Log</value>
-  </data>
+  
   <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
     <value>ハースストーンのパスを設定</value>
   </data>
@@ -1383,9 +1367,7 @@
   <data name="Stats_Arena_Runs_Table_Button_DeleteGame" xml:space="preserve">
     <value>ゲームを削除</value>
   </data>
-  <data name="Stats_Arena_Runs_Table_Game_Vs" xml:space="preserve">
-    <value>VS</value>
-  </data>
+  
   <data name="Stats_Arena_Runs_Table_Game_Started" xml:space="preserve">
     <value>開始</value>
   </data>
@@ -1536,9 +1518,7 @@
   <data name="Stats_Constructed_Games_Table_Class" xml:space="preserve">
     <value>クラス</value>
   </data>
-  <data name="Stats_Constructed_Games_Table_Vs" xml:space="preserve">
-    <value>VS</value>
-  </data>
+  
   <data name="Stats_Constructed_Games_Table_Name" xml:space="preserve">
     <value>名前</value>
   </data>
@@ -1728,9 +1708,7 @@
   <data name="Stats_Constructed_Filters_Label_Class" xml:space="preserve">
     <value>クラス:</value>
   </data>
-  <data name="Stats_Constructed_Filters_Label_Vs" xml:space="preserve">
-    <value>VS:</value>
-  </data>
+  
   <data name="Stats_Constructed_Filters_Label_Mode" xml:space="preserve">
     <value>モード:</value>
   </data>
@@ -2049,9 +2027,7 @@
   <data name="Enum_IconStyle_Square" xml:space="preserve">
     <value>四角</value>
   </data>
-  <data name="Enum_IconStyle_HearthStats" xml:space="preserve">
-    <value>HearthStats</value>
-  </data>
+  
   <data name="Enum_MetroTheme_BaseLight" xml:space="preserve">
     <value>淡色</value>
   </data>
@@ -2157,9 +2133,7 @@
   <data name="DeckPanel_Button_Import" xml:space="preserve">
     <value>インポート</value>
   </data>
-  <data name="Help_Label_Faq" xml:space="preserve">
-    <value>FAQ</value>
-  </data>
+  
   <data name="Help_Faq_Hyperlink" xml:space="preserve">
     <value>よくある質問に移動します。</value>
   </data>
@@ -2268,9 +2242,7 @@
   <data name="Help_Github_Text2" xml:space="preserve">
     <value>、</value>
   </data>
-  <data name="Help_Github_Hyperlink2" xml:space="preserve">
-    <value>readme</value>
-  </data>
+  
   <data name="Help_Github_Text3" xml:space="preserve">
     <value>すべての機能の簡単な概要が含まれています。</value>
   </data>
@@ -2400,9 +2372,7 @@
   <data name="AddGameDialog_Label_Result" xml:space="preserve">
     <value>結果:</value>
   </data>
-  <data name="AddGameDialog_Label_Vs" xml:space="preserve">
-    <value>VS:</value>
-  </data>
+  
   <data name="AddGameDialog_Label_Mode" xml:space="preserve">
     <value>モード:</value>
   </data>
@@ -3141,63 +3111,31 @@
   <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
     <value>選択したデッキは、カードがありません。</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Label_Setup" xml:space="preserve">
-    <value>Setup</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step1" xml:space="preserve">
-    <value>Step 1:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step2" xml:space="preserve">
-    <value>Step 2:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step3" xml:space="preserve">
-    <value>Step 3:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Link" xml:space="preserve">
-    <value>Authenticate with HSReplay.net</value>
-  </data>
+  
+  
+  
+  
+  
   <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
     <value>TwitchのアカウントをHSReplay.net と連携</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
     <value>Twitch拡張をインストール/設定</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Success" xml:space="preserve">
-    <value>Authenticated as</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Error" xml:space="preserve">
-    <value>Something went wrong. Try running HDT as administrator for this step. Otherwise please try again later.</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
-    <value>Linked to</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Error" xml:space="preserve">
-    <value>No Account linked</value>
-  </data>
+  
+  
+  
+  
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
     <value>拡張統合を有効にするには!</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Label_Status" xml:space="preserve">
-    <value>Status</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Enabled" xml:space="preserve">
-    <value>Enabled:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Success" xml:space="preserve">
-    <value>Enabled</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Error" xml:space="preserve">
-    <value>Disabled</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Setup" xml:space="preserve">
-    <value>Setup:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Success" xml:space="preserve">
-    <value>Complete</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Error" xml:space="preserve">
-    <value>Incomplete</value>
-  </data>
+  
+  
+  
+  
+  
+  
+  
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
     <value>ストリーム:</value>
   </data>
@@ -3219,9 +3157,7 @@
   <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
     <value>設定ガイドを見る</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
-    <value>Not connected</value>
-  </data>
+  
   <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
     <value>コボルトと秘宝の迷宮</value>
   </data>
@@ -3255,22 +3191,10 @@
   <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
     <value>「お気に入り」タグ付きのデッキを最初に表示する</value>
   </data>
-  <data name="Button_Download" xml:space="preserve">
-    <value>Download</value>
-  </data>
-  <data name="Button_Notnow" xml:space="preserve">
-    <value>Not now</value>
-  </data>
-  <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
-    <value>A new BETA update is available</value>
-  </data>
-  <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
-    <value>Press "Download" to automatically update.</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
-    <value>Flash Hearthstone on friendly challenge</value>
-  </data>
-  <data name="Test_string" xml:space="preserve">
-    <value>Test!</value>
-  </data>
+  
+  
+  
+  
+  
+  
 </root>
