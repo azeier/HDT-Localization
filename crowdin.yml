@@ -1,0 +1,3 @@
+files:
+  - source: Strings*
+    translation: '%original_file_name%'
