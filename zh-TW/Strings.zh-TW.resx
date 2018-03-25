@@ -534,9 +534,7 @@
   <data name="Options_Tracker_Settings_Header" xml:space="preserve">
     <value>設定</value>
   </data>
-  <data name="Options_Tracker_Logging_Header" xml:space="preserve">
-    <value>Logging</value>
-  </data>
+  
   <data name="Options_Search_TextBox_Watermark" xml:space="preserve">
     <value>輸入名稱/敘述</value>
   </data>
@@ -942,9 +940,7 @@
   <data name="Options_Tracker_Importing_Label_TemplatesPreview" xml:space="preserve">
     <value>預覽:</value>
   </data>
-  <data name="Options_Tracker_Importing_Button_Edit" xml:space="preserve">
-    <value>Edit</value>
-  </data>
+  
   <data name="Options_Tracker_Importing_Label_Web" xml:space="preserve">
     <value>網頁</value>
   </data>
@@ -954,12 +950,8 @@
   <data name="Options_Tracker_Importing_Web_CheckBox_AutoSave" xml:space="preserve">
     <value>匯入時自動儲存套牌</value>
   </data>
-  <data name="Options_Tracker_Importing_Web_CheckBox_AutoSaveNetDeck" xml:space="preserve">
-    <value>Auto import via NetDeck</value>
-  </data>
-  <data name="Options_Tracker_Importing_Web_Hyperlink_NetDeck" xml:space="preserve">
-    <value>Download NetDeck (Chrome ext.)</value>
-  </data>
+  
+  
   <data name="Options_Tracker_Notifications_Label_GameResult" xml:space="preserve">
     <value>遊戲結果</value>
   </data>
@@ -1077,9 +1069,7 @@
   <data name="Options_Tracker_Settings_CheckBox_Newsbar" xml:space="preserve">
     <value>顯示新聞欄</value>
   </data>
-  <data name="Options_Tracker_Settings_CheckBox_Log" xml:space="preserve">
-    <value>Show Log</value>
-  </data>
+  
   <data name="Options_Tracker_Settings_Button_HearthstonePath" xml:space="preserve">
     <value>設定爐石路徑</value>
   </data>
@@ -1383,9 +1373,7 @@
   <data name="Stats_Arena_Runs_Table_Button_DeleteGame" xml:space="preserve">
     <value>刪除場次</value>
   </data>
-  <data name="Stats_Arena_Runs_Table_Game_Vs" xml:space="preserve">
-    <value>VS</value>
-  </data>
+  
   <data name="Stats_Arena_Runs_Table_Game_Started" xml:space="preserve">
     <value>開始日期</value>
   </data>
@@ -1536,9 +1524,7 @@
   <data name="Stats_Constructed_Games_Table_Class" xml:space="preserve">
     <value>職業</value>
   </data>
-  <data name="Stats_Constructed_Games_Table_Vs" xml:space="preserve">
-    <value>VS</value>
-  </data>
+  
   <data name="Stats_Constructed_Games_Table_Name" xml:space="preserve">
     <value>名字</value>
   </data>
@@ -1728,9 +1714,7 @@
   <data name="Stats_Constructed_Filters_Label_Class" xml:space="preserve">
     <value>職業:</value>
   </data>
-  <data name="Stats_Constructed_Filters_Label_Vs" xml:space="preserve">
-    <value>VS:</value>
-  </data>
+  
   <data name="Stats_Constructed_Filters_Label_Mode" xml:space="preserve">
     <value>模式:</value>
   </data>
@@ -1875,9 +1859,7 @@
   <data name="ManaCurve_Tooltip_Label_Minions" xml:space="preserve">
     <value>生物</value>
   </data>
-  <data name="ManaCurve_Tooltip_Label_Heroes" xml:space="preserve">
-    <value>Heroes</value>
-  </data>
+  
   <data name="ManaCurve_Button_Mechanics" xml:space="preserve">
     <value>組成</value>
   </data>
@@ -2049,9 +2031,7 @@
   <data name="Enum_IconStyle_Square" xml:space="preserve">
     <value>正方形</value>
   </data>
-  <data name="Enum_IconStyle_HearthStats" xml:space="preserve">
-    <value>HearthStats</value>
-  </data>
+  
   <data name="Enum_MetroTheme_BaseLight" xml:space="preserve">
     <value>明亮</value>
   </data>
@@ -2157,9 +2137,7 @@
   <data name="DeckPanel_Button_Import" xml:space="preserve">
     <value>匯入</value>
   </data>
-  <data name="Help_Label_Faq" xml:space="preserve">
-    <value>FAQ</value>
-  </data>
+  
   <data name="Help_Faq_Hyperlink" xml:space="preserve">
     <value>前往FAQ</value>
   </data>
@@ -2400,9 +2378,7 @@
   <data name="AddGameDialog_Label_Result" xml:space="preserve">
     <value>結果:</value>
   </data>
-  <data name="AddGameDialog_Label_Vs" xml:space="preserve">
-    <value>VS:</value>
-  </data>
+  
   <data name="AddGameDialog_Label_Mode" xml:space="preserve">
     <value>模式:</value>
   </data>
@@ -3009,9 +2985,7 @@
   <data name="DeckCharts_Label_Winrate" xml:space="preserve">
     <value>勝率</value>
   </data>
-  <data name="DeckCharts_Replays_Label_Vs" xml:space="preserve">
-    <value>vs.</value>
-  </data>
+  
   <data name="DeckCharts_Tooltip_Uploaded" xml:space="preserve">
     <value>已上傳</value>
   </data>
@@ -3141,63 +3115,31 @@
   <data name="ShowMessage_CopyCardNames_NoCards" xml:space="preserve">
     <value>選擇的套牌並不包含任何卡片</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Label_Setup" xml:space="preserve">
-    <value>Setup</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step1" xml:space="preserve">
-    <value>Step 1:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step2" xml:space="preserve">
-    <value>Step 2:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Label_Step3" xml:space="preserve">
-    <value>Step 3:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Link" xml:space="preserve">
-    <value>Authenticate with HSReplay.net</value>
-  </data>
+  
+  
+  
+  
+  
   <data name="Options_Streaming_TwitchExt_Step2_Link" xml:space="preserve">
     <value>連結Twitch帳號</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Step3_Link" xml:space="preserve">
     <value>安裝/設定 Twitch 附加設定</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Success" xml:space="preserve">
-    <value>Authenticated as</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step1_Error" xml:space="preserve">
-    <value>Something went wrong. Try running HDT as administrator for this step. Otherwise please try again later.</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
-    <value>Linked to</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Step2_Error" xml:space="preserve">
-    <value>No Account linked</value>
-  </data>
+  
+  
+  
+  
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
     <value>開啟Twitch附加功能</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Label_Status" xml:space="preserve">
-    <value>Status</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Enabled" xml:space="preserve">
-    <value>Enabled:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Success" xml:space="preserve">
-    <value>Enabled</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Enabled_Error" xml:space="preserve">
-    <value>Disabled</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Label_Setup" xml:space="preserve">
-    <value>Setup:</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Success" xml:space="preserve">
-    <value>Complete</value>
-  </data>
-  <data name="Options_Streaming_TwitchExt_Status_Setup_Error" xml:space="preserve">
-    <value>Incomplete</value>
-  </data>
+  
+  
+  
+  
+  
+  
+  
   <data name="Options_Streaming_TwitchExt_Status_Label_Stream" xml:space="preserve">
     <value>串流:</value>
   </data>
@@ -3219,9 +3161,7 @@
   <data name="Options_Streaming_TwitchExt_SetupGuide_Link" xml:space="preserve">
     <value>查看完整的設定指南</value>
   </data>
-  <data name="Options_Streaming_TwitchExt_Status_Stream_Not_Connected" xml:space="preserve">
-    <value>Not connected</value>
-  </data>
+  
   <data name="MainWindow_DeckBuilder_Filter_Set_Loot" xml:space="preserve">
     <value>狗頭人與地下城</value>
   </data>
@@ -3234,43 +3174,21 @@
   <data name="Stats_Arena_Rewards_Label_Packs_Loot" xml:space="preserve">
     <value>狗頭人與地下城:</value>
   </data>
-  <data name="Enum_DeckType_Dungeon" xml:space="preserve">
-    <value>Dungeon</value>
-  </data>
+  
   <data name="Enum_DeckType_Brawl" xml:space="preserve">
     <value>英雄大亂鬥</value>
   </data>
-  <data name="Options_Tracker_Importing_Label_Dungeon" xml:space="preserve">
-    <value>Dungeon Runs</value>
-  </data>
+  
   <data name="Options_Tracker_Importing_Dungeon_CheckBox_Import" xml:space="preserve">
     <value>自動匯入新套牌</value>
   </data>
-  <data name="Options_Tracker_Importing_Label_DungeonTemplates" xml:space="preserve">
-    <value>Dungeon deck name template</value>
-  </data>
-  <data name="Options_Tracker_Importing_Dungeon_CheckBox_IncludePassives" xml:space="preserve">
-    <value>Include passive cards</value>
-  </data>
-  <data name="SortFilter_CheckBox_SortFavoriteFirst" xml:space="preserve">
-    <value>Show decks tagged as "Favorite" first</value>
-  </data>
-  <data name="Button_Download" xml:space="preserve">
-    <value>Download</value>
-  </data>
-  <data name="Button_Notnow" xml:space="preserve">
-    <value>Not now</value>
-  </data>
-  <data name="MainWindow_StatusBarUpdate_NewBETAUpdateAvailable" xml:space="preserve">
-    <value>A new BETA update is available</value>
-  </data>
-  <data name="MainWindow_ShowMessage_UpdateDialog" xml:space="preserve">
-    <value>Press "Download" to automatically update.</value>
-  </data>
-  <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
-    <value>Flash Hearthstone on friendly challenge</value>
-  </data>
-  <data name="Test_string" xml:space="preserve">
-    <value>Test!</value>
-  </data>
+  
+  
+  
+  
+  
+  
+  
+  
+  
 </root>
