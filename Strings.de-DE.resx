@@ -3050,8 +3050,4 @@
   <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
     <value>Hearthstone bei Herausforderung blinken lassen</value>
   </data>
-  <data name="Test_string" xml:space="preserve">
-    <value>German translation for test!</value>
-  </data>
-  
 </root>
