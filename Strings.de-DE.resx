@@ -132,7 +132,9 @@
   <data name="MainWindow_Menu_Class_Priest" xml:space="preserve">
     <value>_Priester</value>
   </data>
-  
+  <data name="MainWindow_Menu_Class_Paladin" xml:space="preserve">
+    <value>P_aladin</value>
+  </data>
   <data name="MainWindow_Menu_Class_Rogue" xml:space="preserve">
     <value>Schu_rke</value>
   </data>
@@ -2976,7 +2978,9 @@
   </data>
   
   
-  
+  <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
+    <value>Verbunden mit</value>
+  </data>
   
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
     <value>Aktiviere Integration von Twitch Erweiterung</value>
