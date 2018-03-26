@@ -1600,7 +1600,9 @@
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
     <value>Staub</value>
   </data>
-  
+  <data name="ArenaRewards_Label_Packs" xml:space="preserve">
+    <value>Packungen</value>
+  </data>
   <data name="ArenaRewards_Label_Cards" xml:space="preserve">
     <value>Karten</value>
   </data>
