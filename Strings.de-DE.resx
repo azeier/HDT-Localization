@@ -132,7 +132,9 @@
   <data name="MainWindow_Menu_Class_Priest" xml:space="preserve">
     <value>_Priester</value>
   </data>
-  
+  <data name="MainWindow_Menu_Class_Paladin" xml:space="preserve">
+    <value>P_aladin</value>
+  </data>
   <data name="MainWindow_Menu_Class_Rogue" xml:space="preserve">
     <value>Schu_rke</value>
   </data>
@@ -1598,7 +1600,9 @@
   <data name="ArenaRewards_Label_Dust" xml:space="preserve">
     <value>Staub</value>
   </data>
-  
+  <data name="ArenaRewards_Label_Packs" xml:space="preserve">
+    <value>Packungen</value>
+  </data>
   <data name="ArenaRewards_Label_Cards" xml:space="preserve">
     <value>Karten</value>
   </data>
@@ -2976,7 +2980,9 @@
   </data>
   
   
-  
+  <data name="Options_Streaming_TwitchExt_Step2_Success" xml:space="preserve">
+    <value>Verbunden mit</value>
+  </data>
   
   <data name="Options_Streaming_TwitchExt_CheckBox_Enable" xml:space="preserve">
     <value>Aktiviere Integration von Twitch Erweiterung</value>
@@ -3044,8 +3050,4 @@
   <data name="Options_Tracker_General_CheckBox_Flash_Challenge" xml:space="preserve">
     <value>Hearthstone bei Herausforderung blinken lassen</value>
   </data>
-  <data name="Test_string" xml:space="preserve">
-    <value>German translation for test!</value>
-  </data>
-  
 </root>
